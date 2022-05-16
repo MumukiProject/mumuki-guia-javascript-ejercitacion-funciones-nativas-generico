@@ -1,0 +1,1 @@
+¡A practicar con las funciones nativas de JavaScript! :muscle:

@@ -8,7 +8,7 @@ it("Si hacemos esValida('abc123') debería retornar false", function() {
   assert.equal(resultado, false,`esValida('abc123') debería retornar false pero fue ${resultado}`);
 })
 
-it("Si hacemos esValida('lovelace') debería retornar true", function() {
-  let resultado = esValida('lovelace')
-  assert.equal(resultado, true,`esValida('lovelace') debería retornar true pero fue ${resultado}`);
+it("Si hacemos esValida('computadora') debería retornar true", function() {
+  let resultado = esValida('computadora')
+  assert.equal(resultado, true,`esValida('computadora') debería retornar true pero fue ${resultado}`);
 })

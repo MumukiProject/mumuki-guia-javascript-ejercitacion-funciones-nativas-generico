@@ -3,7 +3,7 @@
 ```javascript
 ム sonIguales('javascript', 'JavaScript')
 true
-ム sonIguales('AdA LoVeLaCe', 'Ada Lovelace')
+ム sonIguales('FeLi PeREZ', 'feli perez')
 true
 ム sonIguales('NO ESTOY GRITANDO', 'ESTOY GRITANDO')
 false

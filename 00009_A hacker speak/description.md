@@ -11,8 +11,8 @@
 ```javascript
 ム aHackerSpeak('javascript')
 'j4v45cr1pt'
-ム aHackerSpeak('soy una hacker')
-'50y un4 h4ck3r'
+ム aHackerSpeak('soy un hacker')
+'50y un h4ck3r'
 ム aHackerSpeak('ADA LOVELACE')
 '4D4 L0V3L4C3'
 ```

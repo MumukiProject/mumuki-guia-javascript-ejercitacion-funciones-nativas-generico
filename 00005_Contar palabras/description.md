@@ -3,7 +3,7 @@
 ```javascript
 ム contarPalabras('javascript')
 1
-ム contarPalabras('ada lovelace')
+ム contarPalabras('América Latina')
 2
 ム contarPalabras('si debuggear es el proceso de remover bugs, programar es el proceso de agregarlos')
 14

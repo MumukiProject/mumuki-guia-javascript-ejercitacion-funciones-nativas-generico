@@ -3,6 +3,6 @@
 ```javascript
 ム removerVocales('javascript')
 'jvscrpt'
-ム removerVocales('ada lovelace')
-'d lvlc'
+ム removerVocales('estudiando programación')
+'stdnd prgrmcn'
 ```

@@ -4,6 +4,6 @@ assert.equal(resultado, 'jvscrpt',`removerVocales('javascript') debería retorna
 })
 
 it("Si hacemos removerVocales('estudiando programación') debería retornar 'stdnd prgrmcn'", function() {
-let resultado = removerVocales('estudiando programación')
+let resultado = removerVocales('estudiando programacion')
 assert.equal(resultado, 'stdnd prgrmcn',`removerVocales('estudiando programación') debería retornar 'stdnd prgrmcn' pero fue ${resultado}`);
 })

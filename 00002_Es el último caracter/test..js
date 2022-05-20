@@ -1,4 +1,4 @@
-internetit("Si hacemos esElUltimoCaracter('internet', 't') debería retornar true", function() {
+it("Si hacemos esElUltimoCaracter('internet', 't') debería retornar true", function() {
   let resultado = esElUltimoCaracter('internet', 't')
   assert.equal(resultado, true,`esElUltimoCaracter ('internet','t') debería retornar true pero fue ${resultado}`);
 })
